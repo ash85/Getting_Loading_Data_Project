@@ -16,6 +16,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 <B> Project Steps: </B>
 
 1) Download the data sets to a folder (UCI HAR Dataset folder) on your local drive.
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 2) Set working directory using setwd() that contains the above folder and run_analysis.R program.
 
